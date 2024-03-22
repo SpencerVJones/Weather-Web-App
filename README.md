@@ -1,5 +1,7 @@
 # Weather-Web-App
-Simple web application designed to provide users with current weather information for any city around the world. Leveraging the OpenWeatherMap API, this application allows users to input a city name and retrieve essential weather details such as temperature, humidity, and weather description instantly. <br>
+Simple web application designed to provide users with current weather information for any city around the world. Leveraging the OpenWeatherMap API, this application allows users to input a city name and retrieve essential weather details such as temperature, humidity, and weather description instantly. 
+<br>
+<br>
 With a clean and intuitive user interface, users can easily interact with the app by entering the desired city name into the input field and clicking the "Enter" button. The application then fetches the latest weather data for the specified city and displays it dynamically on the screen.
 
 ## Features
@@ -9,7 +11,7 @@ With a clean and intuitive user interface, users can easily interact with the ap
 - **Emoji Representation:** Weather conditions are visually represented using emojis, making it easy for users to understand the current weather at a glance.
 
 ## Usage
-- Obtain an API key from OpenWeatherMap and replace 'YOUR_API_KEY' in `index.js` with your API key.
+- Obtain an API key from OpenWeatherMap and replace with the API key in `index.js` with your API key.
 - Open `index.html` in a web browser.
 - Enter the name of the city for which you want to retrieve weather information.
 - Click on the "Enter" button to fetch and display weather data.
