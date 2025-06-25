@@ -1,4 +1,8 @@
 # Weather-Web-App
+  <div align="left">
+	
+![Repo Views](https://visitor-badge.laobi.icu/badge?page_id=SpencerVJones/Weather-Web-App)
+</div>
 Simple web application designed to provide users with current weather information for any city around the world. Leveraging the OpenWeatherMap API, this application allows users to input a city name and retrieve essential weather details such as temperature, humidity, and weather description instantly. 
 <br>
 <br>
